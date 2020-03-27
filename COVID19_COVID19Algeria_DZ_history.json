@@ -1,0 +1,434 @@
+{
+    "1": {
+        "active": 2,
+        "confirmed": 2,
+        "date": 1584961200000,
+        "deaths": 0,
+        "females": 0,
+        "males": 2,
+        "recovered": 0
+    },
+    "2": {
+        "active": 1,
+        "confirmed": 1,
+        "date": 1584885600000,
+        "deaths": 0,
+        "females": 0,
+        "males": 1,
+        "recovered": 0
+    },
+    "3": {
+        "active": 1,
+        "confirmed": 1,
+        "date": 1585090800000,
+        "deaths": 0,
+        "females": 0,
+        "males": 1,
+        "recovered": 0
+    },
+    "4": {
+        "active": 2,
+        "confirmed": 2,
+        "date": 1585090800000,
+        "deaths": 0,
+        "females": 2,
+        "males": 0,
+        "recovered": 0
+    },
+    "5": {
+        "active": 1,
+        "confirmed": 1,
+        "date": 1585090800000,
+        "deaths": 0,
+        "females": 0,
+        "males": 1,
+        "recovered": 0
+    },
+    "6": {
+        "active": 4,
+        "confirmed": 5,
+        "date": 1585177200000,
+        "deaths": 1,
+        "females": 2,
+        "males": 3,
+        "recovered": 0
+    },
+    "7": {
+        "active": 1,
+        "confirmed": 1,
+        "date": 1585004400000,
+        "deaths": 0,
+        "females": 0,
+        "males": 1,
+        "recovered": 0
+    },
+    "8": {
+        "active": 0,
+        "confirmed": 0,
+        "date": null,
+        "deaths": 0,
+        "females": 0,
+        "males": 0,
+        "recovered": 0
+    },
+    "9": {
+        "active": 140,
+        "confirmed": 176,
+        "date": 1585177200000,
+        "deaths": 9,
+        "females": 92,
+        "males": 84,
+        "recovered": 27
+    },
+    "10": {
+        "active": 3,
+        "confirmed": 3,
+        "date": 1585004400000,
+        "deaths": 0,
+        "females": 2,
+        "males": 1,
+        "recovered": 0
+    },
+    "11": {
+        "active": 0,
+        "confirmed": 0,
+        "date": null,
+        "deaths": 0,
+        "females": 0,
+        "males": 0,
+        "recovered": 0
+    },
+    "12": {
+        "active": 0,
+        "confirmed": 0,
+        "date": null,
+        "deaths": 0,
+        "females": 0,
+        "males": 0,
+        "recovered": 0
+    },
+    "13": {
+        "active": 7,
+        "confirmed": 7,
+        "date": 1585090800000,
+        "deaths": 0,
+        "females": 2,
+        "males": 5,
+        "recovered": 0
+    },
+    "14": {
+        "active": 0,
+        "confirmed": 0,
+        "date": null,
+        "deaths": 0,
+        "females": 0,
+        "males": 0,
+        "recovered": 0
+    },
+    "15": {
+        "active": 11,
+        "confirmed": 14,
+        "date": 1585177200000,
+        "deaths": 3,
+        "females": 6,
+        "males": 8,
+        "recovered": 0
+    },
+    "16": {
+        "active": 61,
+        "confirmed": 64,
+        "date": 1585177200000,
+        "deaths": 3,
+        "females": 30,
+        "males": 34,
+        "recovered": 0
+    },
+    "17": {
+        "active": 1,
+        "confirmed": 1,
+        "date": 1585177200000,
+        "deaths": 0,
+        "females": 1,
+        "males": 0,
+        "recovered": 0
+    },
+    "18": {
+        "active": 2,
+        "confirmed": 2,
+        "date": 1585177200000,
+        "deaths": 0,
+        "females": 1,
+        "males": 1,
+        "recovered": 0
+    },
+    "19": {
+        "active": 7,
+        "confirmed": 7,
+        "date": 1585090800000,
+        "deaths": 0,
+        "females": 3,
+        "males": 4,
+        "recovered": 0
+    },
+    "20": {
+        "active": 0,
+        "confirmed": 0,
+        "date": null,
+        "deaths": 0,
+        "females": 0,
+        "males": 0,
+        "recovered": 0
+    },
+    "21": {
+        "active": 6,
+        "confirmed": 6,
+        "date": 1584885600000,
+        "deaths": 0,
+        "females": 3,
+        "males": 3,
+        "recovered": 0
+    },
+    "22": {
+        "active": 2,
+        "confirmed": 2,
+        "date": 1585177200000,
+        "deaths": 0,
+        "females": 1,
+        "males": 1,
+        "recovered": 0
+    },
+    "23": {
+        "active": 6,
+        "confirmed": 6,
+        "date": 1584885600000,
+        "deaths": 0,
+        "females": 2,
+        "males": 4,
+        "recovered": 0
+    },
+    "24": {
+        "active": 2,
+        "confirmed": 2,
+        "date": 1585177200000,
+        "deaths": 0,
+        "females": 1,
+        "males": 1,
+        "recovered": 0
+    },
+    "25": {
+        "active": 0,
+        "confirmed": 3,
+        "date": 1585177200000,
+        "deaths": 3,
+        "females": 2,
+        "males": 1,
+        "recovered": 0
+    },
+    "26": {
+        "active": 3,
+        "confirmed": 4,
+        "date": 1585177200000,
+        "deaths": 1,
+        "females": 2,
+        "males": 2,
+        "recovered": 0
+    },
+    "27": {
+        "active": 2,
+        "confirmed": 2,
+        "date": 1585177200000,
+        "deaths": 0,
+        "females": 2,
+        "males": 0,
+        "recovered": 0
+    },
+    "28": {
+        "active": 0,
+        "confirmed": 0,
+        "date": null,
+        "deaths": 0,
+        "females": 0,
+        "males": 0,
+        "recovered": 0
+    },
+    "29": {
+        "active": 1,
+        "confirmed": 3,
+        "date": 1585090800000,
+        "deaths": 0,
+        "females": 2,
+        "males": 1,
+        "recovered": 2
+    },
+    "30": {
+        "active": 0,
+        "confirmed": 0,
+        "date": null,
+        "deaths": 0,
+        "females": 0,
+        "males": 0,
+        "recovered": 0
+    },
+    "31": {
+        "active": 16,
+        "confirmed": 16,
+        "date": 1585177200000,
+        "deaths": 0,
+        "females": 6,
+        "males": 10,
+        "recovered": 0
+    },
+    "32": {
+        "active": 0,
+        "confirmed": 0,
+        "date": null,
+        "deaths": 0,
+        "females": 0,
+        "males": 0,
+        "recovered": 0
+    },
+    "33": {
+        "active": 0,
+        "confirmed": 0,
+        "date": null,
+        "deaths": 0,
+        "females": 0,
+        "males": 0,
+        "recovered": 0
+    },
+    "34": {
+        "active": 6,
+        "confirmed": 6,
+        "date": 1585263600000,
+        "deaths": 1,
+        "females": 2,
+        "males": 4,
+        "recovered": 0
+    },
+    "35": {
+        "active": 3,
+        "confirmed": 4,
+        "date": 1585090800000,
+        "deaths": 1,
+        "females": 2,
+        "males": 2,
+        "recovered": 0
+    },
+    "36": {
+        "active": 2,
+        "confirmed": 2,
+        "date": 1585177200000,
+        "deaths": 0,
+        "females": 0,
+        "males": 2,
+        "recovered": 0
+    },
+    "37": {
+        "active": 0,
+        "confirmed": 0,
+        "date": null,
+        "deaths": 0,
+        "females": 0,
+        "males": 0,
+        "recovered": 0
+    },
+    "38": {
+        "active": 1,
+        "confirmed": 1,
+        "date": 1584831600000,
+        "deaths": 0,
+        "females": 0,
+        "males": 1,
+        "recovered": 0
+    },
+    "39": {
+        "active": 3,
+        "confirmed": 5,
+        "date": 1585177200000,
+        "deaths": 2,
+        "females": 2,
+        "males": 3,
+        "recovered": 0
+    },
+    "40": {
+        "active": 1,
+        "confirmed": 2,
+        "date": 1584885600000,
+        "deaths": 1,
+        "females": 0,
+        "males": 2,
+        "recovered": 0
+    },
+    "41": {
+        "active": 2,
+        "confirmed": 2,
+        "date": 1585177200000,
+        "deaths": 0,
+        "females": 1,
+        "males": 1,
+        "recovered": 0
+    },
+    "42": {
+        "active": 8,
+        "confirmed": 9,
+        "date": 1585177200000,
+        "deaths": 1,
+        "females": 3,
+        "males": 6,
+        "recovered": 0
+    },
+    "43": {
+        "active": 0,
+        "confirmed": 0,
+        "date": null,
+        "deaths": 0,
+        "females": 0,
+        "males": 0,
+        "recovered": 0
+    },
+    "44": {
+        "active": 1,
+        "confirmed": 1,
+        "date": 1585090800000,
+        "deaths": 0,
+        "females": 0,
+        "males": 1,
+        "recovered": 0
+    },
+    "45": {
+        "active": 0,
+        "confirmed": 0,
+        "date": null,
+        "deaths": 0,
+        "females": 0,
+        "males": 0,
+        "recovered": 0
+    },
+    "46": {
+        "active": 1,
+        "confirmed": 1,
+        "date": 1584961200000,
+        "deaths": 0,
+        "females": 0,
+        "males": 1,
+        "recovered": 0
+    },
+    "47": {
+        "active": 1,
+        "confirmed": 1,
+        "date": 1585177200000,
+        "deaths": 0,
+        "females": 0,
+        "males": 1,
+        "recovered": 0
+    },
+    "48": {
+        "active": 1,
+        "confirmed": 1,
+        "date": 1585177200000,
+        "deaths": 0,
+        "females": 0,
+        "males": 1,
+        "recovered": 0
+    }
+}
